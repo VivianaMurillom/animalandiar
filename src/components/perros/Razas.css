@@ -1,0 +1,29 @@
+/* Estilos de Razas.js */
+.perrito{
+    text-align: center;
+}
+
+.perrito h5{
+    color: var(--purple-color);
+}
+
+.buttonPerrito{
+    background-color: var(--white-color);
+    border: 1px solid var(--purple-color);
+    color: var(--purple-color);
+}
+
+.buttonPerrito:hover{
+    background-color: var(--purple-color);
+    border: 1px solid var(--purple-color);
+}
+
+/* Estilos de ModalRazas.js */
+.sobre{
+    color: var(--purple-color);
+    font-weight: bold;
+}
+
+.acerca{
+    text-align: left;
+}
